@@ -1,0 +1,15 @@
+streamlit
+google-generativeai
+python-dotenv
+youtube-transcript-api
+yt-dlp
+pydub
+pandas
+watchdog
+email-validator
+pythainlp
+sumy
+deep-translator
+nltk
+requests
+curl-cffi

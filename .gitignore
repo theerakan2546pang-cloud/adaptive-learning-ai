@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# Database & History
+history.db
+history.db-journal
+
+# Environment & Private Keys
+.env
+*_cookies.txt
+PROJECT_COOKIES.txt
+
+# OS
+.DS_Store
+
+# Temporary Files
+temp_audio*
+preview_*
+*.mp4
+*.m4a
+*.mp3
+*.wav
+*.webm
+*.error
+/tmp/
